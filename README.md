@@ -33,6 +33,6 @@ A futuristic interactive web project designed and developed with creativity, ani
 ## 📂 Installation
 
 ```bash
-git clone https://github.com/yourusername/verity-engine.git
+git clone (https://github.com/ATIQULTIU/Verity-Engine-1)
 cd verity-engine
 open index.html
